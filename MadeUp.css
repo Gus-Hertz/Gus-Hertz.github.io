@@ -114,14 +114,14 @@ header.row h2 {
 	color: #FFFFFF;
 	font-family: bilbo-swash-caps, bilbo, "Trebuchet MS", "Times New Roman", sans-serif, Arial;
 	font-style: normal;
-	font-weight: 500;
-	text-shadow: 0px 0px 3px #000000;
+	font-weight: 400;
+	text-shadow: 0px 0px 7px #000000;
 }
 .logoBlue {
 	color: #001C66;
 	font-family: bilbo-swash-caps, bilbo, "Trebuchet MS", "Times New Roman", sans-serif, Arial;
 	font-style: normal;
-	font-weight: 500;
+	font-weight: 400;
 	text-shadow: 0px 0px 7px #FFFFFF;
 }
 h2 a  {
@@ -189,4 +189,11 @@ section .panel-body  {
 .flt_rgt {
 	float: right;
 	margin-left: 10px;
+}
+td {
+	padding: 2px;
+}
+tbody #tabletop  {
+	color: #FFFFFF;
+	background-color: #001C66;
 }
