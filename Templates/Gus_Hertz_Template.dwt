@@ -1,16 +1,17 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/MU_Template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
   <head><!-- ZMW-->  <!-- NOTE: -->
     <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- InstanceBeginEditable name="doctitle" -->
-	<title>Made Up- Tower of Feathers</title>
-	<!-- InstanceEndEditable -->
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Gus_Hertz</title>
+	<!-- TemplateEndEditable -->
 	<!-- Bootstrap -->
-	<link href="css/bootstrap.css" rel="stylesheet">
-	<link href="MadeUp.css" rel="stylesheet" type="text/css">
-<!-- InstanceBeginEditable name="EditCSS" --><!-- InstanceEndEditable -->
+	<link href="../css/bootstrap.css" rel="stylesheet">
+	<link href="../MadeUp.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="EditCSS" -->	
+  <!-- TemplateEndEditable -->
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -21,26 +22,25 @@
   <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
   <script>var __adobewebfontsappname__="dreamweaver"</script>
   <script src="http://use.edgefonts.net/bilbo:n4:default;bilbo-swash-caps:n4:default.js" type="text/javascript"></script>
-  <!-- InstanceBeginEditable name="head" -->
-  <!-- InstanceEndEditable -->
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
   </head>
   <body><!-- _________________________________________________________Body Start___________________________________________________________________________- -->
  
   <div class="container">
 <!-- ########################################################  Insert Bootstrap code START ######################################################################  -->
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-	<script src="js/jquery-1.11.3.min.js"></script>
+	<script src="../js/jquery-1.11.3.min.js"></script>
 
 	<!-- Include all compiled plugins (below), or include individual files as needed --> 
-	<script src="js/bootstrap.js"></script>
+	<script src="../js/bootstrap.js"></script>
   <!-- ########################################################  Insert Bootstrap code END ######################################################################  -->
   
  <!-- Header START --------------------------------------------------------------------------------------------- Header START -->      
  <header class="row">
  
   		<article id="top" class="col-sm-6">
-     		<h2><a href="MU_RPG_HOME.html"><span class="logoBlue"><strong>Made</strong></span> <span class="logo"> Up</span><span class="logoBlue"> For RPG's</span> </a></h2>
-     		<h2><a href="index.html">Gus-Hertz</a></h2>
+     		<h2><a href="../index.html">Gus-Hertz</a></h2>
       	</article>
 
 		<article class="col-sm-6" >
@@ -53,18 +53,18 @@
 		      <!-- Collect the nav links, forms, and other content for toggling -->
 		      <div class="collapse navbar-collapse" id="defaultNavbar2">
 		        <ul class="nav navbar-nav">
-		           <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Adventures<span class="caret"></span></a>
+		           <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Social Media 						<span class="caret"></span></a>
 		            <ul class="dropdown-menu">
-		              <li><a href="MU_Adv_TOF_Sum.html">Tower of Feathers</a></li>
+	              	  <li><a href="http://tabletopaudio.com/" target="_blank">Table Top Audio</a></li>
+		              <li><a href="https://www.twitch.tv/gus_hertz">Twitch</a></li>
 		              
-		              <li><a href="index.html">Adventure here</a></li>
+		              <li><a href="https://twitter.com/GusHertz">Twitter</a></li>
 	                </ul>
 	              </li>
-		          <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Campaigns<span class="caret"></span></a>
+		          <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Games and Stuff<span class="caret"></span></a>
 		            <ul class="dropdown-menu">
-		              <li><a href="MU_Campaigns_DisMag.html">Discovering Magic</a></li>
-		              <li><a href="MU_Campaigns_Plane_Zombies.html">Plane Jumping Zombies</a></li>
-		              <li><a href="MU_Campaigns_Zendikar.html">Zendikar</a></li>
+	              		<li><a href="../MU_RPG_HOME.html">Made Up for RPG's</a></li>
+
 		            </ul>
 	              </li>
 	            </ul>
@@ -78,12 +78,12 @@
 <!-- Header END --------------------------------------------------------------------------------------------- Header END-->    
  
 <!-- Navagation bar START ----------------------------------------------------------------------------------------- Navagation bar START --> 
-<!-- InstanceBeginEditable name="edit_secondNavbar" -->  
+<!-- TemplateBeginEditable name="edit_secondNavbar" -->  
 <div class="row"> <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ id= "top" ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-->
 
 
 <nav class="navbar navbar-default">
-  <h2 class="col-sm-3"><a href="MU_Adv_TOF_Sum.html">Tower of Feathers</a></h2>
+  <h2 class="col-sm-3"><a href="#">Adventure Name</a></h2>
   <div class="container-fluid  col-sm-9">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -94,11 +94,10 @@
       <ul class="nav navbar-nav">
        
       		
-			<li><a href="MU_Adv_TOF_AdvHooks.html">Adventure Hooks</a></li> 	<!-- NOTE: How to Start Adventure -->
-			<li><a href="MU_Adv_TOF_VLair.html">Villian's Lair</a></li>		<!-- NOTE: Map of the area, and descriptions of whats in each area. -->
-			<li><a href="MU_Adv_TOF_Monsters.html">Monsters</a></li>			<!-- NOTE: What monsters are from the Monster manual, and Unique monsters that I made.  -->
-			<li><a href="MU_Adv_TOF_AdvWU.html">Adventure Wrap Up</a></li><!-- NOTE: Players reward for completing the adventure. -->
-
+			<li><a href="#">Adventure Hooks</a></li> 	<!-- NOTE: How to Start Adventure -->
+			<li><a href="#">Villian's Lair</a></li>		<!-- NOTE: Map of the area, and descriptions of whats in each area. -->
+			<li><a href="#">Monsters</a></li>			<!-- NOTE: What monsters are from the Monster manual, and Unique monsters that I made.  -->
+			<li><a href="#">Adventure Wrap Up</a></li><!-- NOTE: Players reward for completing the adventure. -->
 
       </ul>
     </div>
@@ -108,65 +107,35 @@
 </nav>
 
 </div>
-<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable -->
 <!-- Navagation bar END --------------------------------------------------------------------------------------------- Navagation bar END-->
 
  
  <!-- Main/ CONTENT HERE START------------------------------------------------------------------------------------------ Main/ CONTENT HERE START-->
   <main class="row">
- <!-- InstanceBeginEditable name="EditMain" -->
+ <!-- TemplateBeginEditable name="EditMain" -->
  <article class="col-sm-8 col-sm-push-2">
-   <h2>Adventure Hooks</h2>
-   <p>I love the song at the beginning of this video, and I play it at the start of my games. You don't have to play this by any means to start your game, but I like it. Song finishes at 3:52, and goes into player/character introductions.</p>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/dmTINEnGwnc?list=PLfS8QgUdeGYpErbmZ_JAeYBhpGOrPYV6N" frameborder="0" allowfullscreen></iframe>
-   
-   <p> Choose an adventure hook that fits with your group.  </p>
- 
-   <section>
-    <ol>
-		 <li> 
-		  Given a job by Lord Latida, "La-Ti-Da", (or pick an existing NPC’s in your game). Disappearance of the Lord Latida's son Dasbad. Dasbad has been kidnapped. The assailants grabbed him on his way home from the pub. Pub owner saw the assailants dragging the boy off in a sack in to the forest. Players who ask motive for taking the boy. Diplomacy dc 10= most likely ransom. DC15 Although Lord Latida is highly respected Dasbad has a bad reputation of making many problems for the towns various pub's. Latida uses his status to keep his son out of jail.   <ul><li>Works almost all the time because players know they will be paid.</li></ul>
-		  
-		 </li>
-
-		 <li> ⦁	Players witness the sons kidnapping and immediately go after the assailants. 
- <ul><li> Works well with a party that has a strong sense of justice.  </li></ul> </li>
-
-		 <li> Players wander across the tower randomly while walking through an enchanted forest. Could force players in with bad weather.   <ul><li> Works well when the group has someone who is an instigator, or is just curious of old ruins.  </li></ul></li>
-     </ol> 
-    
-   </section>
-   
-   <p>Upon reaching the Tower the party will attempt to rescue Dasbad from his captors the Kenku.</p>
-   <p>Next page= <a href="MU_Adv_TOF_VLair.html">Villian's Lair</a></p>
+   <h2>ADD ARTICLE TITLE</h2>
+   <p> Main Content HERE </p>
  </article>
- <!-- InstanceEndEditable -->      
+ <!-- TemplateEndEditable -->      
 <!-- sidebar left  START --><!-- sidebar left END -->  
         
         <!-- sidebar right START --><!-- sidebar right END --> 
 
-    <!-- InstanceBeginEditable name="EditSidebar1" -->
+    <!-- TemplateBeginEditable name="EditSidebar1" -->
     <aside class="col-sm-2 sidebar1 col-sm-pull-8">
       <!-- .hidden-sm -->
       <p>Useful Links</p>
-            <section class="sidebarlinks">
-        <ul>
-          <li> <a href="http://tabletopaudio.com/" target="_blank">Table Top Audio</a> </li>
-          <li><a href="http://www.wizards.com/dnd/tavern/Welcome.asp" target="_blank">Tavern Generator</a></li>
-          <li><a href="http://www.fantasynamegenerators.com/" target="_blank">Fantasy Name Generators</a></li>
-        </ul>
-      </section>
     </aside>
-    <!-- InstanceEndEditable -->
+    <!-- TemplateEndEditable -->
      
-     <!-- InstanceBeginEditable name="EditSidebar2" -->
+     <!-- TemplateBeginEditable name="EditSidebar2" -->
       <aside class="col-sm-2 sidebar2">
         <h2> <span class="logo">Made Up</span></h2>
         <p><span class="logo">Made Up</span> is all about making stuff up for RPG's. At the <span class="logo">Made Up</span> headquarters we like to put out the very best content.</p>
-       <h4>DM Tip</h4>
-        <p> Picking really outrageous or bad names for your non player characters (npc's) can really make them memorable. Thus Lord Latida and Dasbad were made up.   </p>
       </aside>
-    <!-- InstanceEndEditable -->
+    <!-- TemplateEndEditable -->
     </main>         
   <!-- Main/ CONTENT HERE END ----------------------------------------------------------------------------------------- Main/ CONTENT HERE END-->    
            
@@ -178,12 +147,12 @@
 
        			<h4><a href="#top">TOP of page</a></h4>
        			
-       			<p><h2><a href="MU_RPG_HOME.html"><span class="logo">Made Up For RPG's</span> </a></h2></p>
+       			<p><h2><a href="../MU_RPG_HOME.html"><span class="logo">Made Up For RPG's</span> </a></h2></p>
        			
-       			<p><h2><a href="index.html">Gus_Hertz </a></h2></p>
+       			<p><h2><a href="../index.html">Gus_Hertz </a></h2></p>
         </footer>
       </div>
 <!-- footer END--------------------------------------------------------------------------------------------------------- footer END--> 
   </div><!-- div container -->
   </body>
-<!-- InstanceEnd --></html>
+</html>
