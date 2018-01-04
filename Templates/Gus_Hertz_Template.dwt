@@ -9,7 +9,8 @@
 	<!-- TemplateEndEditable -->
 	<!-- Bootstrap -->
 	<link href="../css/bootstrap.css" rel="stylesheet">
-	<link href="../MadeUp.css" rel="stylesheet" type="text/css">
+	<!-- removed cause its the same as gus. <link href="../MadeUp.css" rel="stylesheet" type="text/css">-->
+	<link href="../Gus.css" rel="stylesheet" type="text/css">
 <!-- TemplateBeginEditable name="EditCSS" -->	
   <!-- TemplateEndEditable -->
 
@@ -39,11 +40,11 @@
  <!-- Header START --------------------------------------------------------------------------------------------- Header START -->      
  <header class="row">
  
-  		<article id="top" class="col-sm-6">
+  		<article class="col-sm-12">
      		<h2><a href="../index.html">Gus-Hertz</a></h2>
       	</article>
 
-		<article class="col-sm-6" >
+		<article id="top" class="col-sm-12" >
 		  <nav class="navbar navbar-default">
 		    <div class="container-fluid">
 		      <!-- Brand and toggle get grouped for better mobile display -->
