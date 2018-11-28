@@ -6,8 +6,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- TemplateBeginEditable name="doctitle" -->
 	<title>Gus_Hertz</title>
-	<link rel="shortcut icon" type="image/x-icon" href="/Gus-Hertz.jpg">
+	
 	<!-- TemplateEndEditable -->
+	  <link rel="shortcut icon" type="image/x-icon" href="/Gus-Hertz.jpg">
 	<!-- Bootstrap -->
 	<link href="../css/bootstrap.css" rel="stylesheet">
 	<!-- removed cause its the same as gus. <link href="../MadeUp.css" rel="stylesheet" type="text/css">-->
